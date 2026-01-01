@@ -4,7 +4,7 @@ An automated Excel tool for forensic accountants that utilizes Benford's Law to 
 ## Overview
 This project is an Excel tool that allows the user to input numerical transaction data (a ramdom sample from a geometric or approximately geometric sequence) into the Data sheet. The tool will generate several tables and visualizations, running five distinct tests to detect abnormal duplications and other anomalies. The tool does not neccesarily prove the existence of fraud, but it does aid in the forensic analysis process by identifying and screening anomalies. Results ought to be interpreted within their proper accounting context.
 --
-##Tests
+## Tests
 1. **First Digit Benford's Law Test**
 2. **Second Digit Benford's Law Test**
 3. **First-Two Digit Benford's Law Test**
@@ -26,6 +26,7 @@ All outputs are automatically generated.
 --
 ## Notes
 -Not all data sets conform to Benford's Law. Requires random samples from geometric sequences or approximately geometric sequences, such as the base data provided (court purchasing card transactions).
+
 -Upper Bound Limit approaches the expected value (Benford's Law) as N increases. Manual adjustments to N as provided in the tool should be conducted within the context of professional risk assesment. Statistical significance is different than practical significance. 
 
 --
