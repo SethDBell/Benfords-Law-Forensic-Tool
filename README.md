@@ -44,3 +44,20 @@ All data is used for non-commercial, educational use.
 
 ## Disclaimer
 -The project is intended for analytical and educational use. It doesn't prove fraud, and should not replace professional judgment. 
+---
+
+## Screenshots
+
+### Visuals
+![Visuals](Docs/Benfords_Law_Graphs_screenshot.png)
+
+### First Order Tests
+![First Order Tests](Docs/First_Order_Tests_screenshot.png)
+
+### Focused Tests
+![Focused Tests](Docs/Focused_Tests_screenshot.png)
+
+### Data Input Sheet
+![Data Input Sheet](Docs/Benfords_Law_Data_screenshot.png)
+
+
