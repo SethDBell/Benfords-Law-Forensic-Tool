@@ -2,17 +2,16 @@
 An automated Excel tool for forensic accountants that utilizes Benford's Law to conduct forensic analysis. Includes First Digit, Second Digit, First-Two Digit, Last-Two Digit, and Duplication tests. Graphically displays results. Designed for audit, forensic accounting, and fraud screening.
 ---
 ## Overview
-This project is an Excel tool that allows the user to input numerical transaction data (a ramdom sample from a geometric or approximately geometric sequence) into the Data sheet. The tool will generate several tables and visualizations, running five distinct tests to detect abnormal duplications and other anomalies.
-The tool does not neccesarily prove the existence of fraud, but it does aid in the forensic analysis process by identifying and screening anomalies. Results ought to be interpreted within their proper accounting context.
+This project is an Excel tool that allows the user to input numerical transaction data (a ramdom sample from a geometric or approximately geometric sequence) into the Data sheet. The tool will generate several tables and visualizations, running five distinct tests to detect abnormal duplications and other anomalies. The tool does not neccesarily prove the existence of fraud, but it does aid in the forensic analysis process by identifying and screening anomalies. Results ought to be interpreted within their proper accounting context.
 --
 ##Tests
-**First Digit Benford's Law Test**
-**Second Digit Benford's Law Test**
-**First-Two Digit Benford's Law Test**
+1. **First Digit Benford's Law Test**
+2. **Second Digit Benford's Law Test**
+3. **First-Two Digit Benford's Law Test**
 -Generates graph along with Upper-Bound limit, which can be changed by N and Z-Score input options
-**Last-Two Digit Benford's Law Test**
+4. **Last-Two Digit Benford's Law Test**
 -Supports whole numbers and cents, generates graph assuming expected values follow a uniform distribution. Allows for various different modes of analysis for small transactions, credit transactions, etc.
-**Duplication Test**
+5. **Duplication Test**
 -Identifies duplicate amounts in descending order
 
 All outputs are automatically generated.
