@@ -3,7 +3,6 @@ An automated Excel tool for forensic accountants that utilizes Benford's Law to 
 ---
 ## Overview
 This project is an Excel tool that allows the user to input numerical transaction data (a ramdom sample from a geometric or approximately geometric sequence) into the Data sheet. The tool will generate several tables and visualizations, running five distinct tests to detect abnormal duplications and other anomalies.
-
 The tool does not neccesarily prove the existence of fraud, but it does aid in the forensic analysis process by identifying and screening anomalies. Results ought to be interpreted within their proper accounting context.
 --
 ##Tests
@@ -37,6 +36,7 @@ Mark J. Nigrini's research on Benford's Law and his publication, Forensic Analyt
 
 **Reference:**
 Nigrini, M. J. *Forensic Analytics: Methods and Techniques for Forensic Accounting Investigations Second Edition*
+
 All data is used for non-commercial, educational use.
 --
 ## Macros
