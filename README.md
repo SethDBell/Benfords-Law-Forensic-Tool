@@ -1,5 +1,5 @@
 # Benfords-Law-Forensic-Tool
-An automated Excel tool for forensic accountants that utilizes Benford's Law to conduct forensic analysis. Includes First Digit, Second Digit, First-Two Digit, Last-Two Digit, and Duplication tests. Graphically displays results. Designed for audit, forensic accounting, and fraud screening.
+An automated Excel forensic analytics tool that uses Benford’s Law to surface anomalous digit patterns in transactional data. Combines multiple Benford tests and duplication analysis with dynamic visualizations to support audit, forensic accounting, and fraud investigations.
 ---
 ## Overview
 This project is an Excel tool that allows the user to input numerical transaction data (a ramdom sample from a geometric or approximately geometric sequence) into the Data sheet. The tool will generate several tables and visualizations, running five distinct tests to detect abnormal duplications and other anomalies. The tool does not neccesarily prove the existence of fraud, but it does aid in the forensic analysis process by identifying and screening anomalies. Results ought to be interpreted within their proper accounting context.
