@@ -18,7 +18,7 @@ All outputs are automatically generated.
 --
 ## How to Use
 1. Download Excel workbook from the 'Tool' folder
-2. Open file in Excel and enable macros **not required. Macros are only used to refresh pivot tables**
+2. Open file in Excel and enable macros. **Note that this is not required. Macros are only used to refresh pivot tables**
 3. Paste transactional data into Column D of the Data sheet. A-C can be used for ancillary data.
 4. Select Last-Two Digit test modes and filter scope (minimum value) of analysis using the drop down options
 5. Review tables and graphs. Adjust N value for First-Two Digit Upper Bound if desired. Review calculated MAD values.
